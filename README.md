@@ -1,7 +1,7 @@
 # 2021 Calendar Python by hagaitrg
-# Example Output
-##
-      January 2021
+## Example Output
+
+    January 2021
 Mo Tu We Th Fr Sa Su
              1  2  3
  4  5  6  7  8  9 10
