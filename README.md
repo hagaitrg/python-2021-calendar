@@ -1,4 +1,4 @@
-# 2021 Calendar Python by hagaitrg
+# 2021 Python Calendar by hagaitrg
 ## Example Output
 
 ![image](https://user-images.githubusercontent.com/58028975/137586345-6bdc78dd-f43f-480f-8c9a-9b6300f284a5.png)
